@@ -1,0 +1,5 @@
+Stats:
+Player Bullets Fired: 38
+Boss Bullets Fired: 54
+Player Health Remaining: 0
+Boss Health Remaining: 74
